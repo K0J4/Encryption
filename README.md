@@ -8,7 +8,7 @@ git clone https://github.com/K0J4/Encryption
 
 cd Encryption
 
-python3 enc
+python3 enc.py
 ```
 Note: (This Tools For Encryption Of Python3)
 
